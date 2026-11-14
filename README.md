@@ -2,7 +2,7 @@
 
 An interactive dashboard that shows the load shedding timing of 32 areas of Sukkur city and uses a small Machine Learning model to estimate the **chance of load shedding** on any selected date.
 
-**Live app:** _add your Streamlit link here_
+**Live app link:** https://sukkur-loadshedding-app.streamlit.app/
 
 > **Note:** The area timings and the training history in this project are **sample data** created for a university project. They are **not** official SEPCO schedules.
 
